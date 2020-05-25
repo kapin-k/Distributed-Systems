@@ -1,0 +1,4 @@
+#Mon Apr 06 22:29:45 EDT 2020
+base.0=/home/kapin/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
